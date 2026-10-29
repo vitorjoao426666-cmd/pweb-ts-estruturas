@@ -13,4 +13,4 @@ Disciplina: Programação Web
 
 ## Site publicado
 
-https://vitorjoao426666-cmd.github.io/typescript-e-html/
+https://vitorjoao426666-cmd.github.io/pweb-ts-estruturas/
